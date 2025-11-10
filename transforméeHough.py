@@ -1,3 +1,8 @@
+
+ce programme est disponible publiquement sous licence MIT. Pour plus d'informations contacter le proprietaire du repo.
+
+
+
 import cv2
 import numpy as np
 import tkinter as tk
@@ -540,4 +545,5 @@ def main():
     app.run()
 
 if __name__ == "__main__":
+
     main()
